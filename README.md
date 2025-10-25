@@ -1,4 +1,4 @@
-Phased Array simulator
+# Phased Array simulator
 
 This is a code that can simulate phased arrays, written in Julia.
 I wrote it in order to simulate an array of ultrasonic sensors, which I am building using a microcontroller.
